@@ -1,0 +1,81 @@
+1. Sales order table 9.10   -updated
+2. Inventory table 9.14    -updated
+3. Target sales table 9.14     -updated
+4. Forecast table 9.16  -updated
+5. Logistics delivery table 9.16  -updated
+6. Substituted SKU Inventory 9.16  -updated
+7. DC and Location master 9.16  -updated
+8. Product master table 9.16  - no change
+9. Supplier master table 9.16   -updated
+10. Substituted SKU master table 9.16  - no change
+11. Customer Master  9.16  will be shared tomorrow
+12. Financial Revenue 9.16 will be shared tomorrow
+
+total tables will be 12
+
+No longer use calendar master
+No longer use customer service master
+No longer use sales order line, merged to sales order table
+
+
+Recommendation 1: 
+Sales order table 9.10
+Inventory table 9.14
+Logistics delivery table 9.16
+Product master table 9.16
+Customer master  9.16
+DC and Location Master 9.16
+
+Recommendation 2:
+Sales order table 9.10
+Inventory table 9.14
+Logistics delivery table 9.16
+Product master table 9.16
+Customer master  9.16
+DC and Location Master 9.16
+
+
+Recommendation 3:
+Sales order table 9.10
+Inventory table 9.14
+Logistics delivery table 9.16
+Product master table 9.16
+Customer master  9.16
+DC and Location Master 9.16
+
+
+Recommendation 6:
+Target sales table 9.14
+Sales order table 9.10
+Inventory table 9.14
+Logistics delivery table 9.16
+Product master table 9.16
+Customer master  9.16
+DC and Location Master 9.16
+
+
+Recommendation 4: 
+Sales order table 9.10
+Inventory table 9.14
+Substituted SKU Inventory
+Substituted SKU master table 9.16
+Product master table 9.16
+Customer master  9.16
+DC and Location Master 9.16
+
+
+Recommendation 5:
+Sales order table 9.10
+Supplier master table 9.16
+Forecast table 9.16
+Inventory table 9.14
+Substituted SKU Inventory
+Substituted SKU master table 9.16
+
+
+You have those single input tables for recommendations and chatbot. 
+KPIs -> you can use enriched table as the main source. 
+
+
+
+
